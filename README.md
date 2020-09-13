@@ -10,7 +10,7 @@ The website was refactored to follow accssibility standards in order for the web
 - Organized heading attributes in a sequential order.
 - Added a descriptive title.
 
-### Technology Used
+### Technologies Used
 
 - HTML
 - CSS
