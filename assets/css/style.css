@@ -60,16 +60,6 @@ p {
   background-position: center;
 }
 
-.float-left {
-  float: left;
-  margin-right: 25px;
-}
-
-.float-right {
-  float: right;
-  margin-left: 25px;
-}
-
 .content {
   width: 75%;
   display: inline-block;
@@ -162,29 +152,35 @@ p {
   color: #ffffff;
 }
 
-.search-engine-optimization img {
+#search-engine-optimization_image {
   max-height: 200px;
+  float: left;
+  margin-right: 25px;
 }
 
-.online-reputation-management img {
+#onine-reputation-management_image {
   max-height: 200px;
+  float: right;
+  margin-left: 25px;
 }
 
-.social-media-marketing img {
+#social-media-marketing_image {
   max-height: 200px;
+  float: left;
+  margin-right: 25px;
 }
 
-.search-engine-optimization h2 {
+.search-engine-optimization_title {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.online-repuation-management_title {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.social-media-marketing_title {
   margin-bottom: 20px;
   font-size: 36px;
 }
